@@ -1,0 +1,2 @@
+# minimalfab_contest_2024_all_inverter
+ミニマルファブコンテスト2024の第二部投稿用のリポジトリです。
