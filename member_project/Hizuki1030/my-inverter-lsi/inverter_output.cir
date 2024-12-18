@@ -1,0 +1,9 @@
+* Created by KLayout
+
+* cell INVERTER
+.SUBCKT INVERTER
+* device instance $1 r0 *1 38.8,34.4 NMOS
+M$1 2 1 3 3 NMOS L=10U W=20U AS=380P AD=380P PS=78U PD=78U
+* device instance $2 r0 *1 36.2,137 PMOS
+M$2 2 1 4 4 PMOS L=6U W=20U AS=420P AD=420P PS=82U PD=82U
+.ENDS INVERTER
