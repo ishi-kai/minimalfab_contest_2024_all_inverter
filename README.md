@@ -19,9 +19,12 @@
 ## みんなの[相乗りチップ](Submitted/all_members_layout.gds)
 [Submitted](Submitted/)ディレクトリに全回路図と統合後のGDSファイルを保存している。  
 
-- ![all_members_xschem](Submitted/all_members_xschem.png)
-- ![all_members_layout](Submitted/all_members_layout.png)
-- ![all_members_layout_name](Submitted/all_members_layout_name.png)
+- ![all_members_xschem](Submitted/all_members_inverter_xschem.png)
+- ![all_members_layout](Submitted/all_members_inverter_layout.png)
+- ![all_members_name](Submitted/all_members_inverter_name.png)
+### 相乗りチップのラベル
+- オレンジ枠  
+-- 初めてのInverter回路  
 
 
 ### LVS
@@ -34,9 +37,6 @@
 - ![all_member_inverter_layout_drc](Submitted/all_member_inverter_layout_drc.png)
 
 
-### 相乗りチップのラベル
-- オレンジ枠  
--- 初めてのInverter回路  
 
 
 # 参加者リスト
