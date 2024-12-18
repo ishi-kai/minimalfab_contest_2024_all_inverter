@@ -13,15 +13,15 @@
 そのため、先ほどから名前が出ている「EDA」や「PDK」ってなに？そもそも「シャトル」って何？という方向けにハンズオンセミナーです。  
 半導体なんて全く知らないけど、作ってはみたい！という方でも、ぜひ、ご参加ください！  
 
-* ![セミナー内容](/assets/images/shuttle/OSS_seminar.png)
+* ![セミナー内容](https://ishi-kai.org/assets/images/shuttle/OSS_seminar.png)
 
 
 ## みんなの[相乗りチップ](Submitted/all_members_layout.gds)
 [Submitted](Submitted/)ディレクトリに全回路図と統合後のGDSファイルを保存している。  
 
-- ![all_members_xschem](Submitted/all_members_inverter_xschem.png)
-- ![all_members_layout](Submitted/all_members_inverter_layout.png)
-- ![all_members_name](Submitted/all_members_inverter_name.png)
+- ![all_members_xschem](Submitted/all_member_inverter_xschem.png)
+- ![all_members_layout](Submitted/all_member_inverter_layout.png)
+- ![all_members_name](Submitted/all_member_inverter_name.png)
 ### 相乗りチップのラベル
 - オレンジ枠  
 -- 初めてのInverter回路  
