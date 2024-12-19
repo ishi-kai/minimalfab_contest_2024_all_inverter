@@ -2,6 +2,8 @@
 [2024年12月イベント：初めての半導体設計・製造体験！一日で作るインバータ回路ハンズオン](https://ishikai.connpass.com/event/335276/) で募集した参加者によるインバータ回路です。  
 半導体なんて全く知らないけど、作ってはみたい！という方に、一日で、一人一つインバータ回路を、EDAのセットアップ～設計～シミュレーション～レイアウトまでしてもらったものです。  
 
+* [セミナー資料](docs/inverter_MF20.pdf)
+
 * ![セミナー内容](https://ishi-kai.org/assets/images/shuttle/OSS_seminar.png)
     * [ISHI会のミニマルファブコンテスト参加プラン詳細](https://ishi-kai.org/contest/minimalfab/2024/10/20/contest_minimalfab2024_ISHI-KAI.html)
 
