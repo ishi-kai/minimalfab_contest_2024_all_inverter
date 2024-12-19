@@ -16,8 +16,6 @@
 そのため、先ほどから名前が出ている「EDA」や「PDK」ってなに？そもそも「シャトル」って何？という方向けにハンズオンセミナーです。  
 半導体なんて全く知らないけど、作ってはみたい！という方でも、ぜひ、ご参加ください！  
 
-* ![セミナー内容](https://ishi-kai.org/assets/images/shuttle/OSS_seminar.png)
-
 
 ### 当日の風景
 * [YouTubeでの配信](https://youtube.com/live/tnlWAqaulqs?feature=share)
