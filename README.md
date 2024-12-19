@@ -16,6 +16,14 @@
 * ![セミナー内容](https://ishi-kai.org/assets/images/shuttle/OSS_seminar.png)
 
 
+### 当日の風景
+* [YouTubeでの配信](https://youtube.com/live/tnlWAqaulqs?feature=share)
+* ![ハンズオン風景](photo/photo1.jpg)
+* ![ハンズオン風景](photo/photo2.jpg)
+* ![懇親会風景](photo/photo3.jpg)
+
+
+
 ## みんなの[相乗りチップ](Submitted/all_members_layout.gds)
 [Submitted](Submitted/)ディレクトリに全回路図と統合後のGDSファイルを保存している。  
 
